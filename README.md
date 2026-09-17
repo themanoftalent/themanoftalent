@@ -19,11 +19,17 @@ Current interests:
 ## Technology
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,tensorflow,sklearn,java,flask,aws,gcp,azure,latex&theme=dark&perline=9" alt="Python, TensorFlow, Scikit-learn, Java, Flask, AWS, Google Cloud, Azure, LaTeX" />
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,r,cpp,java,matlab,flask,docker,git,linux,aws,gcp,azure,postgres,mysql,latex&theme=dark&perline=10" alt="Python, PyTorch, TensorFlow, Scikit-learn, OpenCV, R, C++, Java, MATLAB, Flask, Docker, Git, Linux, AWS, Google Cloud, Azure, PostgreSQL, MySQL, LaTeX" />
 </p>
 
 <p align="center">
-  <sub>Also using: Keras &middot; Pandas &middot; NumPy &middot; Plotly &middot; Jupyter &middot; Dash &middot; Streamlit</sub>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/Dash-008DE4?style=flat-square&logo=dash&logoColor=white" alt="Dash"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
 </p>
 
 ---
