@@ -1,0 +1,65 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Mehmet Akif Cifci — Associate Professor of Computer Science, TU Wien">
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1e293b" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="nameGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#0ea5e9"/>
+    </linearGradient>
+    <linearGradient id="lineGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0ea5e9" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#38bdf8" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#0ea5e9" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="circleGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#0ea5e9"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="420" rx="20" fill="#0b1220"/>
+  <rect x="1" y="1" width="1198" height="418" rx="19" fill="none" stroke="#1e293b" stroke-width="1"/>
+  <rect width="1200" height="420" rx="20" fill="url(#grid)" opacity="0.5"/>
+
+  <rect x="120" y="46" width="960" height="1.5" fill="url(#lineGradient)"/>
+
+  <text x="600" y="108" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="44" font-weight="700" fill="#f8fafc">
+    Mehmet Akif <tspan fill="url(#nameGradient)">Cifci</tspan>
+  </text>
+
+  <text x="600" y="148" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" fill="#94a3b8">
+    Associate Professor of Computer Science, TU Wien
+  </text>
+  <text x="600" y="174" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" letter-spacing="1" fill="#64748b">
+    COO &#183; AI &amp; Data Science Researcher
+  </text>
+
+  <rect x="250" y="200" width="700" height="1" fill="#1e293b"/>
+
+  <rect x="100" y="228" width="210" height="100" rx="12" fill="#0f1b2e" stroke="#0ea5e9" stroke-width="1.25" opacity="0.9"/>
+  <text x="205" y="270" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#38bdf8" letter-spacing="1">RESEARCH</text>
+  <text x="205" y="294" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#94a3b8">Medical Imaging &amp; AI</text>
+
+  <rect x="335" y="228" width="210" height="100" rx="12" fill="#0f1b2e" stroke="#0ea5e9" stroke-width="1.25" opacity="0.9"/>
+  <text x="440" y="270" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#38bdf8" letter-spacing="1">ANALYZE</text>
+  <text x="440" y="294" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#94a3b8">Data into Insights</text>
+
+  <circle cx="600" cy="280" r="55" fill="#0b1220" stroke="url(#circleGlow)" stroke-width="2.5"/>
+  <circle cx="600" cy="280" r="46" fill="#0ea5e9" opacity="0.12"/>
+  <text x="600" y="288" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#e0f2fe">AI</text>
+
+  <rect x="655" y="228" width="210" height="100" rx="12" fill="#0f1b2e" stroke="#0ea5e9" stroke-width="1.25" opacity="0.9"/>
+  <text x="760" y="270" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#38bdf8" letter-spacing="1">PUBLISH</text>
+  <text x="760" y="294" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#94a3b8">Q1 Journal Research</text>
+
+  <rect x="890" y="228" width="210" height="100" rx="12" fill="#0f1b2e" stroke="#0ea5e9" stroke-width="1.25" opacity="0.9"/>
+  <text x="995" y="270" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#38bdf8" letter-spacing="1">MENTOR</text>
+  <text x="995" y="294" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#94a3b8">Grad Students &amp; Teams</text>
+
+  <rect x="150" y="368" width="900" height="1" fill="#1e293b"/>
+
+  <text x="600" y="396" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" letter-spacing="3" fill="#7dd3fc">
+    MEDICAL IMAGING &#8226; MACHINE LEARNING &#8226; RESEARCH &#8226; DATA SCIENCE &#8226; EDUCATION
+  </text>
+</svg>
